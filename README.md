@@ -32,7 +32,7 @@ https://docs.google.com/spreadsheets/d/1Z6LdGjaQU_O_N5RApYr31cC0ymxUP1d7KJJLU1cH
 https://docs.google.com/spreadsheets/d/1fu9nLjmVAhC9N7neX5WD2V_o_FAZROvC9fAAE4UKVQs/edit#gid=2133469642
 
 ### チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1HRrb8qT9TXrldOQAB7swPwFYOtfxAUQ5Vqst9LaJUfo/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
